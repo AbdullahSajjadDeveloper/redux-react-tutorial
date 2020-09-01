@@ -15,7 +15,10 @@ In This Repo I Will Teach You Redux By Using It In React.JS By Scratch.
   - Reducers (Normal Functions Which Get Actions)
   - Subscribe (Watch Component To Update With State Changes)
   
-# Three Redux Principles
+# Three Redux Principles:-
   - Our Whole State Data will only be stored in Redux Store
   - State Is Read-Only
   - If want to make changes in state use the pure functions (Reducers)
+  
+# Installing Redux:-
+  - npm install redux && npm install react-redux
